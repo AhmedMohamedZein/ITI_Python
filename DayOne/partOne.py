@@ -6,6 +6,7 @@
 
 # print(f'Your name is: {lastName[::-1]} {firstName[::-1]}');
 
+# =============================================================================================
 
 # 2- Write a Python program that accepts an integer (n)
 #  and computes the value of n+nn+nnn.
@@ -20,6 +21,9 @@
 # else:
 #     print("Invalid input! You should only enter a number not a character.");
 
+# =============================================================================================
+
+
 # 3- Write a Python program to print the following here document
 
 # print(""" 
@@ -30,11 +34,14 @@
 #     heredoc string 
 # """);
 
+# =============================================================================================
+
 # 4- Write a Python program to get the volume of a sphere with radius 6.
 # PI = 3.14159;
 # radius = 6 ; # given
 # result = round((3/4)*PI*(radius)**3)
 # print ( result );
+# =============================================================================================
 
 # 5-  Write a Python program that will accept the base and height of a triangle and compute the area.
 
@@ -48,6 +55,8 @@
 #     print(f'The area equals to : {triangleArea}');
 # else:
 #     print('Please make sure that you entered a valid width and height !');
+
+# =============================================================================================
 
 # 6-  Write a Python program to construct the following pattern, using a nested for loop.
 
@@ -65,6 +74,9 @@
 # else :
 #     print ("Please enter a valid number");
 
+# =============================================================================================
+
+
 # 7- Write a Python program that accepts a word from the user and reverse it
 
 # reverseThis = input('Enter the word that you want to be reversed: ');
@@ -73,11 +85,17 @@
 # else:
 #     print('You entered a non-valid input, please make sure you entered a string');
 
+# =============================================================================================
+
+
 # 8- Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
 
 # for i in range (0,6):
 #     if (i != 3):
 #         print (f'{i}' , end=" ");    
+
+# =============================================================================================
+
 
 # 9- Write a Python program to get the Fibonacci series between 0 to 50
 
@@ -86,6 +104,9 @@
 # while b < 50:
 #     print(b, end=' ')
 #     a, b = b, a + b;
+
+# =============================================================================================
+
 
 # 10- Write a Python program that accepts a string and calculate the number of digits and letters
 
